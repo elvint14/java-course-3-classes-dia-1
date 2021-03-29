@@ -1,0 +1,6 @@
+- software downloading and installing
+- compiling and running (interpreting)
+  basic java app from terminal/bash/cmd/command prompt
+    - cd ToYourDirectory
+    - javac Hello.java
+    - java Hello
